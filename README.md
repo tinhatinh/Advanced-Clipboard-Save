@@ -1,4 +1,4 @@
-# Clipboard Save
+# Advanced Clipboard Save
 
 ## General Description
 
