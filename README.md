@@ -8,10 +8,10 @@ Clipboard Save is a browser extension that allows users to easily save content f
 
 ## Installation Steps
 
-### Step 1: Download the .zip File
+### Step 1: Download the .rar File
 Download the .zip file containing the Clipboard Save extension.
 
-### Step 2: Extract the .zip File
+### Step 2: Extract the .rar File
 Once the file is downloaded, extract the .zip file to any folder on your computer.
 
 ### Step 3: Load the Extension in Your Browser
