@@ -44,7 +44,7 @@ After loading the extension, click on the extension icon and toggle the clipboar
 
 ---
 
-## How It Works
+## How It Work
 
 1. **Clipboard Monitoring:**  
    The extension listens for copy actions on web pages and captures the copied content.
